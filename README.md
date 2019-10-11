@@ -1,6 +1,5 @@
 # automatic-guacamole
-# hello Everyone
-# Want to know what you can find in my repo's
+# Want to know what you can find in my repo's???
 # WELL HELLO THERE :)
 # ---> I will be uploading few of my projects on Object detection, Machine Learning and mini projects,
 #      you will also find sample DBMS programs, they are for you if you are a beginner then you are in the right place,
